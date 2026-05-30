@@ -120,7 +120,7 @@ Segurança da Informação e Governança de TI
 [x] Aula 4: SSO, Keycloak, autenticação federada, sessões e tokens.
 [x] Aula 5: OAuth2 RFC 6749 e OpenID Connect: papéis, fluxos, scopes, claims, ID token, access token e refresh token.
 [x] Aula 6: DevSecOps: segurança no ciclo de desenvolvimento, pipelines, SAST, DAST, dependências, secrets e shift-left.
-[] Aula 7: COBIT 2019: governança, gestão, objetivos, componentes e princípios.
+[x] Aula 7: COBIT 2019: governança, gestão, objetivos, componentes e princípios.
 [] Aula 8: ITIL 4: sistema de valor de serviço, cadeia de valor, práticas, incidentes, problemas, mudanças e níveis de serviço.
 [] Aula 9: Gestão de riscos em TI: ameaça, vulnerabilidade, impacto, probabilidade, controle, tratamento e risco residual.
 [] Aula 10: Continuidade de serviços de TI: BIA, RTO, RPO, backup, recuperação, contingência e desastre.
