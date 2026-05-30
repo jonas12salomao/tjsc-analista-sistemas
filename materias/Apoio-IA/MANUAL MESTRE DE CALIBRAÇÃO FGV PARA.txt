@@ -1,0 +1,232 @@
+MANUAL MESTRE DE CALIBRAÇÃO FGV PARA AULAS E QUESTÕES
+Projeto TJSC 2026
+
+FINALIDADE
+Este documento define o padrão editorial obrigatório das aulas e das questões produzidas no projeto.
+Ele existe para garantir três coisas ao mesmo tempo:
+1. aderência integral ao edital;
+2. qualidade real de explicação;
+3. questões com padrão próximo ao da FGV.
+
+Este material é transversal e serve para várias disciplinas.
+Ele não substitui o edital, a trilha da disciplina nem as fontes técnicas da matéria.
+Ele funciona como régua de qualidade.
+
+PRINCÍPIO MAIOR
+O edital manda mais do que o template.
+Sempre que houver conflito entre:
+- edital;
+- trilha da disciplina;
+- prompt antigo;
+- costume do gerador;
+prevalece o edital e a trilha definida para aquela disciplina.
+
+REGRA DE OURO
+Não remover, fundir, renomear ou resumir tópicos do edital a ponto de algum conteúdo desaparecer.
+
+COMO DEVE SER UMA AULA CLASSE A
+Uma aula classe A não é apenas longa.
+Ela é:
+- aderente ao edital;
+- bem explicada;
+- progressiva;
+- específica da disciplina;
+- útil para prova;
+- rica em distinções;
+- rica em exemplos;
+- rica em pegadinhas reais;
+- acompanhada de questões fortes e comentários completos.
+
+Uma aula classe A não deve parecer um template repetido com o nome da disciplina trocado.
+
+O QUE A AULA DEVE CONTER
+1. Objetivo claro da aula.
+2. Recorte preciso dos itens do edital e da trilha cobertos naquele encontro.
+3. Teoria completa.
+4. Exemplos práticos compatíveis com a disciplina.
+5. Tabelas comparativas quando realmente úteis.
+6. Pegadinhas FGV.
+7. Questões.
+8. Gabarito separado.
+9. Comentários completos.
+10. Checklist final.
+
+REGRAS DA TEORIA
+- Explicar o básico quando necessário, sem pular o fundamento.
+- Avançar até as distinções que mais derrubam candidato.
+- Escrever com densidade, mas sem prolixidade vazia.
+- Usar linguagem clara, precisa e natural.
+- Não substituir teoria por slogans motivacionais.
+- Não gastar espaço com blocos automáticos e repetitivos se isso empobrecer o conteúdo.
+- Não inserir flashcards finais, revisão de 5 minutos, hacks ou blocos semelhantes por padrão, salvo pedido expresso do projeto.
+- Toda sigla ou termo técnico relevante deve ser expandido na primeira ocorrência, quando isso fizer sentido para a disciplina.
+- Quando a disciplina for normativa, diferenciar regra, exceção, pegadinha de literalidade e aplicação prática.
+- Quando a disciplina for técnica, diferenciar conceito, uso, limite, erro comum e situação real de prova.
+- Quando a disciplina for interpretativa, diferenciar enunciado, comando, inferência, literalidade e nuance semântica.
+
+REGRAS DOS EXEMPLOS
+Os exemplos devem conversar com a natureza da disciplina:
+- Direito e legislação: casos institucionais, incidência da norma, exceções, conflito aparente, literalidade e aplicação.
+- Língua Portuguesa e humanas: texto, semântica, sintaxe, inferência, adequação/inadequação, valor argumentativo, comparação de enunciados.
+- Administração e gestão pública: caso organizacional, processo, governança, controle, tomada de decisão, setor público.
+- TI: código, arquitetura, fluxo, diagrama, comando, log, cenário corporativo, API, banco, nuvem, segurança, integração.
+- Saúde e áreas afins: protocolo, conduta, critério clínico, vigilância, legislação setorial, caso aplicado.
+- Exatas, finanças e contabilidade: cálculo, interpretação de dado, estrutura conceitual, armadilha de fórmula, unidade e premissa.
+
+COMO DEVEM SER AS QUESTÕES
+Questão boa não é a que parece difícil porque está enorme.
+Questão boa é a que exige discriminação real entre alternativas próximas.
+
+A régua mínima de uma questão boa é:
+- enunciado pertinente;
+- comando claro;
+- uma resposta defensavelmente correta;
+- quatro distratores plausíveis;
+- nível real de separação entre quase-sabe e sabe.
+
+MISTURA MÍNIMA DE FORMATOS
+Sempre que a disciplina permitir, o conjunto de questões deve misturar formatos.
+Exemplos de famílias de item:
+1. Direta conceitual com alternativas próximas.
+2. Caso prático/contextualizado.
+3. Afirmativas I, II e III.
+4. V/F combinado.
+5. Relacione colunas ou conceitos.
+6. Exceção/incorreta.
+7. Interpretação de trecho normativo, texto, tabela, gráfico, figura, diagrama, fórmula, código ou situação concreta.
+
+Não obrigue todos os formatos em toda disciplina.
+Mas nunca deixe o caderno inteiro preso em um único molde.
+
+NÍVEL DE DESAFIO RECOMENDADO
+Para um bloco de 20 questões:
+- 3 a 4 questões de aquecimento qualificado;
+- 10 a 11 questões de dificuldade média a média-alta;
+- 5 a 6 questões de dificuldade alta.
+
+O objetivo não é fazer um material punitivo.
+O objetivo é aproximar o candidato do nível seletivo da banca.
+
+COMO CONSTRUIR DISTRATORES
+Distrator ruim:
+- é absurdo;
+- foge do assunto;
+- está em outro universo conceitual;
+- é fácil de eliminar;
+- denuncia a correta.
+
+Distrator bom:
+- está no mesmo campo semântico;
+- parece certo à primeira leitura;
+- explora confusão real de prova;
+- troca escopo, condição, exceção, termo técnico, temporalidade, hierarquia ou efeito;
+- usa conceito verdadeiro em contexto errado;
+- exagera uma regra parcialmente correta;
+- aproxima demais dois institutos ou definições.
+
+TIPOS DE DISTRATOR QUE DEVEM APARECER
+1. Conceito vizinho.
+2. Regra verdadeira em situação errada.
+3. Exceção transformada em regra.
+4. Regra geral aplicada fora do contexto.
+5. Troca de causa por efeito.
+6. Troca de requisito por consequência.
+7. Troca de competência, escopo, prazo, ordem, condição ou finalidade.
+8. Termo técnico próximo, mas não equivalente.
+
+REGRAS DE GABARITO
+- Nunca force equilíbrio matemático de letras.
+- Nunca use “4 de cada letra”, “5 de cada letra” ou qualquer quota fixa.
+- Nunca monte gabarito em sequência deliberada.
+- Deixe letras repetirem naturalmente.
+- Se o gabarito final formar desenho visual óbvio, reembaralhe.
+- O embaralhamento deve ocorrer por questão, e não por bloco rígido.
+- Primeiro crie a questão e suas alternativas plausíveis.
+- Depois embaralhe.
+- Depois resolva de novo, como auditoria, para confirmar se só uma permanece correta.
+
+SINAIS DE GABARITO ARTIFICIAL
+Se ocorrer qualquer um dos padrões abaixo, suspeite:
+- alternância regular demais;
+- rodízio previsível de letras;
+- simetria perfeita entre blocos;
+- distribuição bonitinha demais;
+- ausência total de repetição de letras.
+
+COMO DEVEM SER OS COMENTÁRIOS
+Comentário fraco:
+- apenas diz a letra correta;
+- repete o enunciado;
+- explica só a correta;
+- ignora por que as erradas seduzem.
+
+Comentário forte:
+- justifica a correta com precisão;
+- explica por que cada errada parece plausível;
+- mostra o ponto exato do erro;
+- compara conceitos próximos;
+- consolida aprendizado de prova.
+
+A lógica do comentário deve ser:
+1. por que a correta é correta;
+2. por que a errada A pode enganar;
+3. por que a errada B pode enganar;
+4. por que a errada C pode enganar;
+5. por que a errada D pode enganar;
+6. por que a errada E pode enganar.
+
+ADAPTAÇÃO POR NATUREZA DA DISCIPLINA
+Em vez de usar uma “cara FGV” única, adapte a elaboração ao perfil da matéria.
+
+Disciplinas normativas:
+- cobrar literalidade, incidência, exceção, competência, prazo, vedação e aplicação concreta.
+
+Disciplinas conceituais:
+- cobrar distinção fina entre conceitos próximos, classificação, efeito, limite, requisito e finalidade.
+
+Disciplinas interpretativas:
+- cobrar inferência, valor semântico, efeito argumentativo, adequação, inadequação, pressuposto e implicatura.
+
+Disciplinas técnicas:
+- cobrar leitura de cenário, diagrama, código, configuração, comando, saída, arquitetura, fluxo, dependência e consequência.
+
+Disciplinas quantitativas:
+- cobrar premissa, fórmula, unidade, interpretação de dado, etapa do cálculo, erro típico e análise do resultado.
+
+NÃO CONFORMIDADES GRAVES
+Se ocorrer qualquer uma das falhas abaixo, o material deve ser revisto:
+- omissão de tópico do edital ou da trilha;
+- teoria rasa em conceito-base;
+- questão com distrator absurdo;
+- gabarito artificialmente balanceado;
+- gabarito em ciclo visível;
+- vinte questões no mesmo molde;
+- comentário que não rebate erradas;
+- excesso de blocos de enchimento;
+- aparência de template repetido;
+- acessibilidade ruim;
+- foco excessivo em tema lateral não previsto no edital.
+
+CHECKLIST FINAL DE VALIDAÇÃO
+Antes de finalizar cada aula, confirme:
+1. Cobri exatamente os itens da aula e do edital?
+2. Preservai todos os tópicos sem sumir com nada?
+3. Expliquei do básico ao ponto de prova?
+4. Usei exemplos específicos da disciplina?
+5. Evitei seções automáticas desnecessárias?
+6. O caderno tem variedade de formatos?
+7. As alternativas parecem reais e plausíveis?
+8. O gabarito ficou natural?
+9. Os comentários realmente ensinam?
+10. O material parece de concurso sério, e não um template reaplicado?
+
+FORMATAÇÃO E ACESSIBILIDADE
+- Preferir fundo claro e texto preto.
+- Evitar blocos escuros e elementos decorativos que prejudiquem legibilidade.
+- Usar hierarquia visual simples.
+- Priorizar clareza, contraste e leitura contínua.
+
+REGRA FINAL
+Se for preciso escolher entre “ficar bonito” e “ficar com cara de prova boa”, escolha sempre a segunda opção.
+Se for preciso escolher entre “enxugar” e “não perder ponto do edital”, preserve o edital.
+Se for preciso escolher entre “equilibrar o gabarito” e “deixar organicamente plausível”, escolha o orgânico.

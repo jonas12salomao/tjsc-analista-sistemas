@@ -1,0 +1,142 @@
+Língua Portuguesa
+[] Aula 1: Interpretação FGV: compreensão, inferência, pressupostos, subentendidos, tese e intenção comunicativa.
+[] Aula 2: Tipos e gêneros textuais; finalidade, suporte, registro e adequação.
+[] Aula 3: Ortografia oficial: emprego das letras, acentuação gráfica e palavras recorrentes em prova.
+[] Aula 4: Coesão textual: referenciação, substituição, repetição, conectores e sequenciação.
+[] Aula 5: Correlação de tempos e modos verbais; valor semântico dos tempos verbais.
+[] Aula 6: Coordenação, subordinação e estrutura do período.
+[] Aula 7: Pontuação e efeitos de sentido.
+[] Aula 8: Concordância verbal e nominal.
+[] Aula 9: Regência, crase e colocação pronominal.
+[] Aula 10: Reescritura, substituição, paráfrase, equivalência semântica e retextualização.
+[] Aula 11: Revisão FGV com bateria mista.
+
+Legislação Institucional do PJSC
+[x] Aula 1: Estrutura do Poder Judiciário estadual e papel institucional do TJSC.
+[x] Aula 2: Lei nº 5.624/1979 — organização judiciária: divisão, comarcas, entrâncias, unidades e estrutura territorial.
+[x] Aula 3: Lei nº 5.624/1979 — órgãos jurisdicionais e administrativos: composição, competências e funcionamento.
+[x] Aula 4: Regimento Interno do TJSC — órgãos, composição, competências e organização interna.
+[x] Aula 5: Regimento Interno do TJSC — funcionamento, sessões, julgamento, distribuição, presidência, corregedoria e pontos institucionais.
+[] Aula 6: Corregedoria-Geral da Justiça: natureza, função, competências e relação com o primeiro grau.
+[] Aula 7: Código de Normas da CGJ, atualizado pelo Provimento CGJ nº 22/2025 — serviços judiciais de primeiro grau, rotinas, atos, tramitação e secretaria.
+[] Aula 8: Lei nº 6.745/1985 — provimento, posse, exercício, direitos, vantagens, licenças e afastamentos.
+[] Aula 9: Lei nº 6.745/1985 — deveres, proibições, responsabilidades e regime jurídico funcional.
+[] Aula 10: Lei Complementar nº 639/2015 — regime disciplinar dos servidores do quadro do PJSC.
+[] Aula 11: Comparativo Lei nº 6.745/1985 x LC nº 639/2015 x normas internas do PJSC.
+[] Aula 12: Revisão FGV de Legislação Institucional do PJSC.
+
+Ética e Gestão no Serviço Público
+[] Aula 1: Princípios constitucionais, moralidade, interesse público, probidade e integridade.
+[] Aula 2: Conflito de interesses, deveres, vedações e responsabilização administrativa, civil e penal.
+[] Aula 3: Processo disciplinar, sanções e regime funcional do servidor.
+[] Aula 4: Lei nº 8.429/1992 — improbidade administrativa: atos, elementos, sanções e casos concretos.
+[] Aula 5: Lei nº 12.846/2013 — responsabilidade objetiva, atos lesivos, acordo de leniência e programa de integridade.
+[] Aula 6: Gestão de pessoas: motivação, liderança, desempenho, equipe, comunicação e cultura organizacional.
+[] Aula 7: Integridade institucional no Poder Judiciário e Resolução TJ nº 22/2021.
+[] Aula 8: Revisão FGV de Ética e Gestão no Serviço Público.
+
+Noções de Informática e Proteção de Dados
+[] Aula 1: Hardware, software, sistemas operacionais e aplicativos.
+[] Aula 2: Redes, internet, navegadores, e-mail, nuvem e boas práticas de uso.
+[] Aula 3: Segurança da informação: princípios, ameaças, senhas, malware, phishing, backup e boas práticas.
+[] Aula 4: LGPD — conceitos, dado pessoal, dado sensível, tratamento, princípios e bases legais.
+[] Aula 5: LGPD — direitos do titular, agentes de tratamento, controlador, operador, encarregado e responsabilidades.
+[] Aula 6: Proteção de dados no PJSC e Resolução TJ nº 3/2021.
+[] Aula 7: Revisão FGV de Informática e Proteção de Dados.
+
+Direitos Humanos e acesso à justiça
+[] Aula 1: Fundamentos dos direitos humanos: dignidade, universalidade, indivisibilidade e interdependência.
+[] Aula 2: Proteção internacional e constitucional dos direitos fundamentais; incorporação no Brasil.
+[] Aula 3: Acesso à justiça, devido processo legal, contraditório, ampla defesa e efetividade.
+[] Aula 4: Igualdade, não discriminação, isonomia, equidade, vulnerabilidade e grupos vulneráveis.
+[] Aula 5: Políticas judiciárias de inclusão, cidadania e atuação do Poder Judiciário.
+[] Aula 6: Revisão FGV de Direitos Humanos e acesso à justiça.
+
+Engenharia de Software e Desenvolvimento
+[x] Aula 1: Engenharia de requisitos, análise e projeto de sistemas.
+[x] Aula 2: Conceitos de engenharia de software e processos de desenvolvimento.
+[x] Aula 3: Scrum e Kanban.
+[x] Aula 4: RUP — Rational Unified Process.
+[x] Aula 5: CMMI-DEV v2.0 e MR-MPS-SW 2024.
+[x] Aula 6: Análise de negócios e sua relação com requisitos.
+[x] Aula 7: Orientação a objetos: conceitos fundamentais, análise e modelagem.
+[x] Aula 8: UML 2.1: casos de uso, classes, sequência, atividades, componentes e implantação.
+[x] Aula 9: Padrões de projeto e ferramentas CASE.
+[] Aula 10: Java 17+, .NET 8+ e PHP 8+ para prova conceitual.
+[] Aula 11: Web Services, SOAP, REST e desenvolvimento de APIs.
+[] Aula 12: Controle de versão: SVN e Git.
+[] Aula 13: Testes unitários, de integração e de sistema.
+[] Aula 14: Integração contínua e entrega contínua — CI/CD.
+[] Aula 15: MoReq-Jus e Resolução CNJ nº 522/2023.
+[] Aula 16: Gestão documental arquivística digital: metadados, ciclo de vida, preservação e RDC-Arq.
+[] Aula 17: Revisão FGV de Engenharia de Software e Desenvolvimento.
+
+Arquitetura de Sistemas e Integração
+[x] Aula 1: Arquitetura de software, cliente-servidor, camadas, sistemas web e dispositivos móveis.
+[x] Aula 2: MVC e DDD.
+[x] Aula 3: Microsserviços, monólito, SOA, trade-offs e ambientes distribuídos.
+[x] Aula 4: Integração de sistemas, APIs RESTful, JSON, webhooks e APIs reversas.
+[] Aula 5: Arquitetura de desenvolvimento de PDPJ.
+[] Aula 6: Spring Boot, Spring Cloud, Eureka, Zuul, Service Discovery e API Gateway.
+[] Aula 7: Persistência com JPA, Hibernate 4.3+, Hibernate Envers e Flyway.
+[] Aula 8: Mensageria, eventos negociais, Message Broker e RabbitMQ.
+[] Aula 9: Docker, containers, Kubernetes e Rancher.
+[] Aula 10: Ambientes distribuídos e escaláveis: disponibilidade, resiliência, balanceamento, observabilidade e consistência.
+[] Aula 11: Revisão FGV de Arquitetura de Sistemas e Integração.
+
+Banco de Dados e Engenharia de Dados
+[S] Aula 1: Fundamentos de banco de dados, SGBD, arquitetura, OLTP e OLAP.
+[S] Aula 2: Modelagem relacional: entidade, atributo, relacionamento, chave, cardinalidade, integridade e normalização.
+[S] Aula 3: Modelagem conceitual, lógica e física; MER, DER e transformação para modelo relacional.
+[S] Aula 4: SQL parte 1 — SELECT, WHERE, JOIN, GROUP BY, HAVING, ORDER BY, funções e subconsultas.
+[S] Aula 5: SQL parte 2 — DDL, DML, DCL, TCL, constraints, views, triggers e stored procedures.
+[] Aula 6: Transações, ACID, concorrência, isolamento, locks, deadlock, commit, rollback, backup e recuperação.
+[] Aula 7: Administração de banco de dados: usuários, permissões, índices, planos de execução, tuning básico e disponibilidade.
+[] Aula 8: SGBDs do edital: MySQL, SQL Server 2019, PostgreSQL 17+ e Oracle 23ai.
+[] Aula 9: Modelagem dimensional: fatos, dimensões, medidas, granularidade, star schema e snowflake schema.
+[] Aula 10: Data Warehouse, Data Mart, ETL, ELT, BI e operações OLAP.
+[] Aula 11: Big Data, engenharia de dados, pipelines, análise de dados e arquitetura moderna de dados.
+[] Aula 12: Revisão FGV de Banco de Dados e Engenharia de Dados.
+
+Infraestrutura de TI e Computação em Nuvem
+[x] Aula 1: Modelo OSI, TCP/IP e visão geral de redes.
+[x] Aula 2: Endereçamento IP, máscara, gateway, DNS, DHCP e NAT.
+[x] Aula 3: Ethernet, MAC, ARP, switch, roteador, hub, VLAN, quadro, pacote, segmento, broadcast e domínio de colisão.
+[x] Aula 4: TCP, UDP, portas, sockets, HTTP, HTTPS, TLS e fluxo de uma requisição web.
+[] Aula 5: Firewall, proxy, VPN, DMZ, IDS, IPS e segurança em rede.
+[] Aula 6: Sistemas operacionais: processos, threads, memória, entrada/saída, arquivos e escalonamento.
+[] Aula 7: Servidores, armazenamento, RAID, NAS, SAN, backup, disponibilidade e infraestrutura física/lógica.
+[] Aula 8: Virtualização, hypervisor, máquinas virtuais, containers e diferença entre VM e container.
+[] Aula 9: Docker: imagens, containers, registries, volumes e redes.
+[] Aula 10: Kubernetes e Rancher: pods, nodes, services, deployments, scaling e gerenciamento.
+[] Aula 11: Cloud computing: características essenciais, IaaS, PaaS, SaaS, nuvem pública, privada, híbrida e multicloud.
+[] Aula 12: Desenvolvimento para nuvem, arquitetura cloud-native, escalabilidade, disponibilidade, resiliência e custos.
+[] Aula 13: Revisão FGV de Infraestrutura e Nuvem.
+
+Segurança da Informação e Governança de TI
+[x] Aula 1: Fundamentos de segurança: confidencialidade, integridade, disponibilidade, autenticação e autorização.
+[x] Aula 2: Proteção de dados pessoais e LGPD aplicada a sistemas e ambiente público.
+[x] Aula 3: Gestão de identidade e acesso: IAM, RBAC, ABAC, privilégios e ciclo de vida.
+[x] Aula 4: SSO, Keycloak, autenticação federada, sessões e tokens.
+[x] Aula 5: OAuth2 RFC 6749 e OpenID Connect: papéis, fluxos, scopes, claims, ID token, access token e refresh token.
+[x] Aula 6: DevSecOps: segurança no ciclo de desenvolvimento, pipelines, SAST, DAST, dependências, secrets e shift-left.
+[] Aula 7: COBIT 2019: governança, gestão, objetivos, componentes e princípios.
+[] Aula 8: ITIL 4: sistema de valor de serviço, cadeia de valor, práticas, incidentes, problemas, mudanças e níveis de serviço.
+[] Aula 9: Gestão de riscos em TI: ameaça, vulnerabilidade, impacto, probabilidade, controle, tratamento e risco residual.
+[] Aula 10: Continuidade de serviços de TI: BIA, RTO, RPO, backup, recuperação, contingência e desastre.
+[] Aula 11: Revisão FGV de Segurança da Informação e Governança de TI.
+
+Governança Projetos e TI no Setor Público
+[x] Aula 1: Governança de TI no setor público: valor, alinhamento, accountability, riscos e controles.
+[x] Aula 2: Planejamento estratégico de TI: PETI, PDTI, metas, indicadores, portfólio e alinhamento institucional.
+[x] Aula 3: PMBOK 7ª edição: princípios, domínios de desempenho, tailoring, valor e diferenças para abordagens tradicionais.
+[x] Aula 4: Ciclo de vida de projetos: preditivo, iterativo, incremental, adaptativo e híbrido.
+[x] Aula 5: Scrum e Kanban aplicados a projetos e serviços públicos.
+[x] Aula 6: Pontos de função: fronteira da aplicação, ALI, AIE, EE, SE, CE e CPM IFPUG 4.3.1.
+[x] Aula 7: Roteiro de Métricas de Software do SISP versão 2.0.
+[] Aula 8: Contratações de TI no setor público: planejamento, estudo técnico, termo de referência, riscos, fiscalização e gestão contratual.
+[] Aula 9: Resolução CNJ nº 335/2020.
+[] Aula 10: Resolução CNJ nº 396/2021.
+[] Aula 11: Resolução CNJ nº 522/2023.
+[] Aula 12: Portarias CNJ nº 252/2020, 253/2020, 131/2021, 162/2021 e 257/2022.
+[] Aula 13: Revisão FGV de Governança Projetos e TI no Setor Público.
