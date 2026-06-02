@@ -134,7 +134,7 @@ Governança Projetos e TI no Setor Público
 [x] Aula 5: Scrum e Kanban aplicados a projetos e serviços públicos.
 [x] Aula 6: Pontos de função: fronteira da aplicação, ALI, AIE, EE, SE, CE e CPM IFPUG 4.3.1.
 [x] Aula 7: Roteiro de Métricas de Software do SISP versão 2.0.
-[] Aula 8: Contratações de TI no setor público: planejamento, estudo técnico, termo de referência, riscos, fiscalização e gestão contratual.
+[x] Aula 8: Contratações de TI no setor público: planejamento, estudo técnico, termo de referência, riscos, fiscalização e gestão contratual.
 [] Aula 9: Resolução CNJ nº 335/2020.
 [] Aula 10: Resolução CNJ nº 396/2021.
 [] Aula 11: Resolução CNJ nº 522/2023.
