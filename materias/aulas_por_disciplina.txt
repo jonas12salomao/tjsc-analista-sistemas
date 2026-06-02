@@ -62,7 +62,7 @@ Engenharia de Software e Desenvolvimento
 [x] Aula 7: Orientação a objetos: conceitos fundamentais, análise e modelagem.
 [x] Aula 8: UML 2.1: casos de uso, classes, sequência, atividades, componentes e implantação.
 [x] Aula 9: Padrões de projeto e ferramentas CASE.
-[] Aula 10: Java 17+, .NET 8+ e PHP 8+ para prova conceitual.
+[x] Aula 10: Java 17+, .NET 8+ e PHP 8+ para prova conceitual.
 [] Aula 11: Web Services, SOAP, REST e desenvolvimento de APIs.
 [] Aula 12: Controle de versão: SVN e Git.
 [] Aula 13: Testes unitários, de integração e de sistema.
