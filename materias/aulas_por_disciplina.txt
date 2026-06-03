@@ -64,7 +64,7 @@ Engenharia de Software e Desenvolvimento
 [x] Aula 9: Padrões de projeto e ferramentas CASE.
 [x] Aula 10: Java 17+, .NET 8+ e PHP 8+ para prova conceitual.
 [x] Aula 11: Web Services, SOAP, REST e desenvolvimento de APIs.
-[] Aula 12: Controle de versão: SVN e Git.
+[x] Aula 12: Controle de versão: SVN e Git.
 [] Aula 13: Testes unitários, de integração e de sistema.
 [] Aula 14: Integração contínua e entrega contínua — CI/CD.
 [] Aula 15: MoReq-Jus e Resolução CNJ nº 522/2023.
