@@ -76,7 +76,7 @@ Arquitetura de Sistemas e Integração
 [x] Aula 2: MVC e DDD.
 [x] Aula 3: Microsserviços, monólito, SOA, trade-offs e ambientes distribuídos.
 [x] Aula 4: Integração de sistemas, APIs RESTful, JSON, webhooks e APIs reversas.
-[] Aula 5: Arquitetura de desenvolvimento de PDPJ.
+[x] Aula 5: Arquitetura de desenvolvimento de PDPJ.
 [] Aula 6: Spring Boot, Spring Cloud, Eureka, Zuul, Service Discovery e API Gateway.
 [] Aula 7: Persistência com JPA, Hibernate 4.3+, Hibernate Envers e Flyway.
 [] Aula 8: Mensageria, eventos negociais, Message Broker e RabbitMQ.
