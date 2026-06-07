@@ -76,7 +76,7 @@ Arquitetura de Sistemas e Integração
 [x] Aula 2: MVC e DDD.
 [x] Aula 3: Microsserviços, monólito, SOA, trade-offs e ambientes distribuídos.
 [x] Aula 4: Integração de sistemas, APIs RESTful, JSON, webhooks e APIs reversas.
-[x] Aula 5: Arquitetura de desenvolvimento de PDPJ.
+[] Aula 5: Arquitetura de desenvolvimento de PDPJ.
 [] Aula 6: Spring Boot, Spring Cloud, Eureka, Zuul, Service Discovery e API Gateway.
 [] Aula 7: Persistência com JPA, Hibernate 4.3+, Hibernate Envers e Flyway.
 [] Aula 8: Mensageria, eventos negociais, Message Broker e RabbitMQ.
@@ -103,8 +103,8 @@ Infraestrutura de TI e Computação em Nuvem
 [x] Aula 2: Endereçamento IP, máscara, gateway, DNS, DHCP e NAT.
 [x] Aula 3: Ethernet, MAC, ARP, switch, roteador, hub, VLAN, quadro, pacote, segmento, broadcast e domínio de colisão.
 [x] Aula 4: TCP, UDP, portas, sockets, HTTP, HTTPS, TLS e fluxo de uma requisição web.
-[] Aula 5: Firewall, proxy, VPN, DMZ, IDS, IPS e segurança em rede.
-[] Aula 6: Sistemas operacionais: processos, threads, memória, entrada/saída, arquivos e escalonamento.
+[x] Aula 5: Firewall, proxy, VPN, DMZ, IDS, IPS e segurança em rede.
+[x] Aula 6: Sistemas operacionais: processos, threads, memória, entrada/saída, arquivos e escalonamento.
 [] Aula 7: Servidores, armazenamento, RAID, NAS, SAN, backup, disponibilidade e infraestrutura física/lógica.
 [] Aula 8: Virtualização, hypervisor, máquinas virtuais, containers e diferença entre VM e container.
 [] Aula 9: Docker: imagens, containers, registries, volumes e redes.
