@@ -1,14 +1,14 @@
 Língua Portuguesa
 [] Aula 1: Interpretação FGV: compreensão, inferência, pressupostos, subentendidos, tese e intenção comunicativa.
 [] Aula 2: Tipos e gêneros textuais; finalidade, suporte, registro e adequação.
-[] Aula 3: Ortografia oficial: emprego das letras, acentuação gráfica e palavras recorrentes em prova.
-[] Aula 4: Coesão textual: referenciação, substituição, repetição, conectores e sequenciação.
+[S] Aula 3: Ortografia oficial: emprego das letras, acentuação gráfica e palavras recorrentes em prova.
+[S] Aula 4: Coesão textual: referenciação, substituição, repetição, conectores e sequenciação.
 [] Aula 5: Correlação de tempos e modos verbais; valor semântico dos tempos verbais.
 [] Aula 6: Coordenação, subordinação e estrutura do período.
-[] Aula 7: Pontuação e efeitos de sentido.
+[S] Aula 7: Pontuação e efeitos de sentido.
 [] Aula 8: Concordância verbal e nominal.
-[] Aula 9: Regência, crase e colocação pronominal.
-[] Aula 10: Reescritura, substituição, paráfrase, equivalência semântica e retextualização.
+[S] Aula 9: Regência, crase e colocação pronominal.
+[S] Aula 10: Reescritura, substituição, paráfrase, equivalência semântica e retextualização.
 [] Aula 11: Revisão FGV com bateria mista.
 
 Legislação Institucional do PJSC
@@ -26,9 +26,9 @@ Legislação Institucional do PJSC
 [] Aula 12: Revisão FGV de Legislação Institucional do PJSC.
 
 Ética e Gestão no Serviço Público
-[] Aula 1: Princípios constitucionais, moralidade, interesse público, probidade e integridade.
-[] Aula 2: Conflito de interesses, deveres, vedações e responsabilização administrativa, civil e penal.
-[] Aula 3: Processo disciplinar, sanções e regime funcional do servidor.
+[S] Aula 1: Princípios constitucionais, moralidade, interesse público, probidade e integridade.
+[S] Aula 2: Conflito de interesses, deveres, vedações e responsabilização administrativa, civil e penal.
+[S] Aula 3: Processo disciplinar, sanções e regime funcional do servidor.
 [] Aula 4: Lei nº 8.429/1992 — improbidade administrativa: atos, elementos, sanções e casos concretos.
 [] Aula 5: Lei nº 12.846/2013 — responsabilidade objetiva, atos lesivos, acordo de leniência e programa de integridade.
 [] Aula 6: Gestão de pessoas: motivação, liderança, desempenho, equipe, comunicação e cultura organizacional.
@@ -77,7 +77,7 @@ Arquitetura de Sistemas e Integração
 [x] Aula 3: Microsserviços, monólito, SOA, trade-offs e ambientes distribuídos.
 [x] Aula 4: Integração de sistemas, APIs RESTful, JSON, webhooks e APIs reversas.
 [] Aula 5: Arquitetura de desenvolvimento de PDPJ.
-[] Aula 6: Spring Boot, Spring Cloud, Eureka, Zuul, Service Discovery e API Gateway.
+[x] Aula 6: Spring Boot, Spring Cloud, Eureka, Zuul, Service Discovery e API Gateway.
 [] Aula 7: Persistência com JPA, Hibernate 4.3+, Hibernate Envers e Flyway.
 [] Aula 8: Mensageria, eventos negociais, Message Broker e RabbitMQ.
 [] Aula 9: Docker, containers, Kubernetes e Rancher.
@@ -93,8 +93,8 @@ Banco de Dados e Engenharia de Dados
 [] Aula 6: Transações, ACID, concorrência, isolamento, locks, deadlock, commit, rollback, backup e recuperação.
 [] Aula 7: Administração de banco de dados: usuários, permissões, índices, planos de execução, tuning básico e disponibilidade.
 [] Aula 8: SGBDs do edital: MySQL, SQL Server 2019, PostgreSQL 17+ e Oracle 23ai.
-[] Aula 9: Modelagem dimensional: fatos, dimensões, medidas, granularidade, star schema e snowflake schema.
-[] Aula 10: Data Warehouse, Data Mart, ETL, ELT, BI e operações OLAP.
+[S] Aula 9: Modelagem dimensional: fatos, dimensões, medidas, granularidade, star schema e snowflake schema.
+[S] Aula 10: Data Warehouse, Data Mart, ETL, ELT, BI e operações OLAP.
 [] Aula 11: Big Data, engenharia de dados, pipelines, análise de dados e arquitetura moderna de dados.
 [] Aula 12: Revisão FGV de Banco de Dados e Engenharia de Dados.
 
@@ -109,7 +109,7 @@ Infraestrutura de TI e Computação em Nuvem
 [] Aula 8: Virtualização, hypervisor, máquinas virtuais, containers e diferença entre VM e container.
 [] Aula 9: Docker: imagens, containers, registries, volumes e redes.
 [] Aula 10: Kubernetes e Rancher: pods, nodes, services, deployments, scaling e gerenciamento.
-[] Aula 11: Cloud computing: características essenciais, IaaS, PaaS, SaaS, nuvem pública, privada, híbrida e multicloud.
+[S] Aula 11: Cloud computing: características essenciais, IaaS, PaaS, SaaS, nuvem pública, privada, híbrida e multicloud.
 [] Aula 12: Desenvolvimento para nuvem, arquitetura cloud-native, escalabilidade, disponibilidade, resiliência e custos.
 [] Aula 13: Revisão FGV de Infraestrutura e Nuvem.
 
