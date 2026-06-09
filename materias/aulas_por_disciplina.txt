@@ -66,7 +66,7 @@ Engenharia de Software e Desenvolvimento
 [x] Aula 11: Web Services, SOAP, REST e desenvolvimento de APIs.
 [x] Aula 12: Controle de versão: SVN e Git.
 [x] Aula 13: Testes unitários, de integração e de sistema.
-[] Aula 14: Integração contínua e entrega contínua — CI/CD.
+[x] Aula 14: Integração contínua e entrega contínua — CI/CD.
 [] Aula 15: MoReq-Jus e Resolução CNJ nº 522/2023.
 [] Aula 16: Gestão documental arquivística digital: metadados, ciclo de vida, preservação e RDC-Arq.
 [] Aula 17: Revisão FGV de Engenharia de Software e Desenvolvimento.
