@@ -105,10 +105,10 @@ Infraestrutura de TI e Computação em Nuvem
 [x] Aula 4: TCP, UDP, portas, sockets, HTTP, HTTPS, TLS e fluxo de uma requisição web.
 [x] Aula 5: Firewall, proxy, VPN, DMZ, IDS, IPS e segurança em rede.
 [x] Aula 6: Sistemas operacionais: processos, threads, memória, entrada/saída, arquivos e escalonamento.
-[] Aula 7: Servidores, armazenamento, RAID, NAS, SAN, backup, disponibilidade e infraestrutura física/lógica.
-[] Aula 8: Virtualização, hypervisor, máquinas virtuais, containers e diferença entre VM e container.
-[] Aula 9: Docker: imagens, containers, registries, volumes e redes.
-[] Aula 10: Kubernetes e Rancher: pods, nodes, services, deployments, scaling e gerenciamento.
+[x] Aula 7: Servidores, armazenamento, RAID, NAS, SAN, backup, disponibilidade e infraestrutura física/lógica.
+[S] Aula 8: Virtualização, hypervisor, máquinas virtuais, containers e diferença entre VM e container.
+[S] Aula 9: Docker: imagens, containers, registries, volumes e redes.
+[S] Aula 10: Kubernetes e Rancher: pods, nodes, services, deployments, scaling e gerenciamento.
 [S] Aula 11: Cloud computing: características essenciais, IaaS, PaaS, SaaS, nuvem pública, privada, híbrida e multicloud.
 [] Aula 12: Desenvolvimento para nuvem, arquitetura cloud-native, escalabilidade, disponibilidade, resiliência e custos.
 [] Aula 13: Revisão FGV de Infraestrutura e Nuvem.
