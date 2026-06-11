@@ -79,9 +79,9 @@ Arquitetura de Sistemas e Integração
 [x] Aula 5: Arquitetura de desenvolvimento de PDPJ.
 [x] Aula 6: Spring Boot, Spring Cloud, Eureka, Zuul, Service Discovery e API Gateway.
 [x] Aula 7: Persistência com JPA, Hibernate 4.3+, Hibernate Envers e Flyway.
-[] Aula 8: Mensageria, eventos negociais, Message Broker e RabbitMQ.
+[x] Aula 8: Mensageria, eventos negociais, Message Broker e RabbitMQ.
 [x] Aula 9: Docker, containers, Kubernetes e Rancher.
-[] Aula 10: Ambientes distribuídos e escaláveis: disponibilidade, resiliência, balanceamento, observabilidade e consistência.
+[x] Aula 10: Ambientes distribuídos e escaláveis: disponibilidade, resiliência, balanceamento, observabilidade e consistência.
 [] Aula 11: Revisão FGV de Arquitetura de Sistemas e Integração.
 
 Banco de Dados e Engenharia de Dados
