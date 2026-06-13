@@ -17,8 +17,8 @@ Legislação Institucional do PJSC
 [x] Aula 3: Lei nº 5.624/1979 — órgãos jurisdicionais e administrativos: composição, competências e funcionamento.
 [x] Aula 4: Regimento Interno do TJSC — órgãos, composição, competências e organização interna.
 [x] Aula 5: Regimento Interno do TJSC — funcionamento, sessões, julgamento, distribuição, presidência, corregedoria e pontos institucionais.
-[] Aula 6: Corregedoria-Geral da Justiça: natureza, função, competências e relação com o primeiro grau.
-[] Aula 7: Código de Normas da CGJ, atualizado pelo Provimento CGJ nº 22/2025 — serviços judiciais de primeiro grau, rotinas, atos, tramitação e secretaria.
+[x] Aula 6: Corregedoria-Geral da Justiça: natureza, função, competências e relação com o primeiro grau.
+[x] Aula 7: Código de Normas da CGJ, atualizado pelo Provimento CGJ nº 22/2025 — serviços judiciais de primeiro grau, rotinas, atos, tramitação e secretaria.
 [] Aula 8: Lei nº 6.745/1985 — provimento, posse, exercício, direitos, vantagens, licenças e afastamentos.
 [] Aula 9: Lei nº 6.745/1985 — deveres, proibições, responsabilidades e regime jurídico funcional.
 [] Aula 10: Lei Complementar nº 639/2015 — regime disciplinar dos servidores do quadro do PJSC.
