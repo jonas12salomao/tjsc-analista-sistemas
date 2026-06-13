@@ -106,11 +106,11 @@ Infraestrutura de TI e Computação em Nuvem
 [x] Aula 5: Firewall, proxy, VPN, DMZ, IDS, IPS e segurança em rede.
 [x] Aula 6: Sistemas operacionais: processos, threads, memória, entrada/saída, arquivos e escalonamento.
 [x] Aula 7: Servidores, armazenamento, RAID, NAS, SAN, backup, disponibilidade e infraestrutura física/lógica.
-[S] Aula 8: Virtualização, hypervisor, máquinas virtuais, containers e diferença entre VM e container.
+[x] Aula 8: Virtualização, hypervisor, máquinas virtuais, containers e diferença entre VM e container.
 [S] Aula 9: Docker: imagens, containers, registries, volumes e redes.
 [S] Aula 10: Kubernetes e Rancher: pods, nodes, services, deployments, scaling e gerenciamento.
 [S] Aula 11: Cloud computing: características essenciais, IaaS, PaaS, SaaS, nuvem pública, privada, híbrida e multicloud.
-[] Aula 12: Desenvolvimento para nuvem, arquitetura cloud-native, escalabilidade, disponibilidade, resiliência e custos.
+[x] Aula 12: Desenvolvimento para nuvem, arquitetura cloud-native, escalabilidade, disponibilidade, resiliência e custos.
 [] Aula 13: Revisão FGV de Infraestrutura e Nuvem.
 
 Segurança da Informação e Governança de TI
@@ -122,7 +122,7 @@ Segurança da Informação e Governança de TI
 [x] Aula 6: DevSecOps: segurança no ciclo de desenvolvimento, pipelines, SAST, DAST, dependências, secrets e shift-left.
 [x] Aula 7: COBIT 2019: governança, gestão, objetivos, componentes e princípios.
 [x] Aula 8: ITIL 4: sistema de valor de serviço, cadeia de valor, práticas, incidentes, problemas, mudanças e níveis de serviço.
-[] Aula 9: Gestão de riscos em TI: ameaça, vulnerabilidade, impacto, probabilidade, controle, tratamento e risco residual.
+[x] Aula 9: Gestão de riscos em TI: ameaça, vulnerabilidade, impacto, probabilidade, controle, tratamento e risco residual.
 [] Aula 10: Continuidade de serviços de TI: BIA, RTO, RPO, backup, recuperação, contingência e desastre.
 [] Aula 11: Revisão FGV de Segurança da Informação e Governança de TI.
 
@@ -135,7 +135,7 @@ Governança Projetos e TI no Setor Público
 [x] Aula 6: Pontos de função: fronteira da aplicação, ALI, AIE, EE, SE, CE e CPM IFPUG 4.3.1.
 [x] Aula 7: Roteiro de Métricas de Software do SISP versão 2.0.
 [x] Aula 8: Contratações de TI no setor público: planejamento, estudo técnico, termo de referência, riscos, fiscalização e gestão contratual.
-[] Aula 9: Resolução CNJ nº 335/2020.
+[x] Aula 9: Resolução CNJ nº 335/2020.
 [] Aula 10: Resolução CNJ nº 396/2021.
 [] Aula 11: Resolução CNJ nº 522/2023.
 [] Aula 12: Portarias CNJ nº 252/2020, 253/2020, 131/2021, 162/2021 e 257/2022.
