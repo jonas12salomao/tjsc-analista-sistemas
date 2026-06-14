@@ -109,7 +109,7 @@ Infraestrutura de TI e Computação em Nuvem
 [x] Aula 8: Virtualização, hypervisor, máquinas virtuais, containers e diferença entre VM e container.
 [S] Aula 9: Docker: imagens, containers, registries, volumes e redes.
 [S] Aula 10: Kubernetes e Rancher: pods, nodes, services, deployments, scaling e gerenciamento.
-[S] Aula 11: Cloud computing: características essenciais, IaaS, PaaS, SaaS, nuvem pública, privada, híbrida e multicloud.
+[x] Aula 11: Cloud computing: características essenciais, IaaS, PaaS, SaaS, nuvem pública, privada, híbrida e multicloud.
 [x] Aula 12: Desenvolvimento para nuvem, arquitetura cloud-native, escalabilidade, disponibilidade, resiliência e custos.
 [] Aula 13: Revisão FGV de Infraestrutura e Nuvem.
 
@@ -123,7 +123,7 @@ Segurança da Informação e Governança de TI
 [x] Aula 7: COBIT 2019: governança, gestão, objetivos, componentes e princípios.
 [x] Aula 8: ITIL 4: sistema de valor de serviço, cadeia de valor, práticas, incidentes, problemas, mudanças e níveis de serviço.
 [x] Aula 9: Gestão de riscos em TI: ameaça, vulnerabilidade, impacto, probabilidade, controle, tratamento e risco residual.
-[] Aula 10: Continuidade de serviços de TI: BIA, RTO, RPO, backup, recuperação, contingência e desastre.
+[x] Aula 10: Continuidade de serviços de TI: BIA, RTO, RPO, backup, recuperação, contingência e desastre.
 [] Aula 11: Revisão FGV de Segurança da Informação e Governança de TI.
 
 Governança Projetos e TI no Setor Público
@@ -136,7 +136,7 @@ Governança Projetos e TI no Setor Público
 [x] Aula 7: Roteiro de Métricas de Software do SISP versão 2.0.
 [x] Aula 8: Contratações de TI no setor público: planejamento, estudo técnico, termo de referência, riscos, fiscalização e gestão contratual.
 [x] Aula 9: Resolução CNJ nº 335/2020.
-[] Aula 10: Resolução CNJ nº 396/2021.
+[x] Aula 10: Resolução CNJ nº 396/2021.
 [] Aula 11: Resolução CNJ nº 522/2023.
 [] Aula 12: Portarias CNJ nº 252/2020, 253/2020, 131/2021, 162/2021 e 257/2022.
 [] Aula 13: Revisão FGV de Governança Projetos e TI no Setor Público.
