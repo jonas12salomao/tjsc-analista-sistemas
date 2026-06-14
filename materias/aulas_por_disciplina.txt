@@ -85,9 +85,9 @@ Arquitetura de Sistemas e Integração
 [] Aula 11: Revisão FGV de Arquitetura de Sistemas e Integração.
 
 Banco de Dados e Engenharia de Dados
-[S] Aula 1: Fundamentos de banco de dados, SGBD, arquitetura, OLTP e OLAP.
-[S] Aula 2: Modelagem relacional: entidade, atributo, relacionamento, chave, cardinalidade, integridade e normalização.
-[S] Aula 3: Modelagem conceitual, lógica e física; MER, DER e transformação para modelo relacional.
+[x] Aula 1: Fundamentos de banco de dados, SGBD, arquitetura, OLTP e OLAP.
+[x] Aula 2: Modelagem relacional: entidade, atributo, relacionamento, chave, cardinalidade, integridade e normalização.
+[x] Aula 3: Modelagem conceitual, lógica e física; MER, DER e transformação para modelo relacional.
 [S] Aula 4: SQL parte 1 — SELECT, WHERE, JOIN, GROUP BY, HAVING, ORDER BY, funções e subconsultas.
 [S] Aula 5: SQL parte 2 — DDL, DML, DCL, TCL, constraints, views, triggers e stored procedures.
 [] Aula 6: Transações, ACID, concorrência, isolamento, locks, deadlock, commit, rollback, backup e recuperação.
