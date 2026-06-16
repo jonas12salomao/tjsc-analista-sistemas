@@ -88,10 +88,10 @@ Banco de Dados e Engenharia de Dados
 [x] Aula 1: Fundamentos de banco de dados, SGBD, arquitetura, OLTP e OLAP.
 [x] Aula 2: Modelagem relacional: entidade, atributo, relacionamento, chave, cardinalidade, integridade e normalização.
 [x] Aula 3: Modelagem conceitual, lógica e física; MER, DER e transformação para modelo relacional.
-[S] Aula 4: SQL parte 1 — SELECT, WHERE, JOIN, GROUP BY, HAVING, ORDER BY, funções e subconsultas.
-[S] Aula 5: SQL parte 2 — DDL, DML, DCL, TCL, constraints, views, triggers e stored procedures.
-[] Aula 6: Transações, ACID, concorrência, isolamento, locks, deadlock, commit, rollback, backup e recuperação.
-[] Aula 7: Administração de banco de dados: usuários, permissões, índices, planos de execução, tuning básico e disponibilidade.
+[x] Aula 4: SQL parte 1 — SELECT, WHERE, JOIN, GROUP BY, HAVING, ORDER BY, funções e subconsultas.
+[x] Aula 5: SQL parte 2 — DDL, DML, DCL, TCL, constraints, views, triggers e stored procedures.
+[x] Aula 6: Transações, ACID, concorrência, isolamento, locks, deadlock, commit, rollback, backup e recuperação.
+[x] Aula 7: Administração de banco de dados: usuários, permissões, índices, planos de execução, tuning básico e disponibilidade.
 [] Aula 8: SGBDs do edital: MySQL, SQL Server 2019, PostgreSQL 17+ e Oracle 23ai.
 [S] Aula 9: Modelagem dimensional: fatos, dimensões, medidas, granularidade, star schema e snowflake schema.
 [S] Aula 10: Data Warehouse, Data Mart, ETL, ELT, BI e operações OLAP.
