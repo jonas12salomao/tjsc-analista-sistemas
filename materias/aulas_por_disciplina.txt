@@ -92,10 +92,10 @@ Banco de Dados e Engenharia de Dados
 [x] Aula 5: SQL parte 2 — DDL, DML, DCL, TCL, constraints, views, triggers e stored procedures.
 [x] Aula 6: Transações, ACID, concorrência, isolamento, locks, deadlock, commit, rollback, backup e recuperação.
 [x] Aula 7: Administração de banco de dados: usuários, permissões, índices, planos de execução, tuning básico e disponibilidade.
-[] Aula 8: SGBDs do edital: MySQL, SQL Server 2019, PostgreSQL 17+ e Oracle 23ai.
-[S] Aula 9: Modelagem dimensional: fatos, dimensões, medidas, granularidade, star schema e snowflake schema.
-[S] Aula 10: Data Warehouse, Data Mart, ETL, ELT, BI e operações OLAP.
-[] Aula 11: Big Data, engenharia de dados, pipelines, análise de dados e arquitetura moderna de dados.
+[x] Aula 8: SGBDs do edital: MySQL, SQL Server 2019, PostgreSQL 17+ e Oracle 23ai.
+[x] Aula 9: Modelagem dimensional: fatos, dimensões, medidas, granularidade, star schema e snowflake schema.
+[x] Aula 10: Data Warehouse, Data Mart, ETL, ELT, BI e operações OLAP.
+[x] Aula 11: Big Data, engenharia de dados, pipelines, análise de dados e arquitetura moderna de dados.
 [] Aula 12: Revisão FGV de Banco de Dados e Engenharia de Dados.
 
 Infraestrutura de TI e Computação em Nuvem
