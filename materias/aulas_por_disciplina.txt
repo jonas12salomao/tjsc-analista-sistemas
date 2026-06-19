@@ -67,7 +67,7 @@ Engenharia de Software e Desenvolvimento
 [x] Aula 12: Controle de versão: SVN e Git.
 [x] Aula 13: Testes unitários, de integração e de sistema.
 [x] Aula 14: Integração contínua e entrega contínua — CI/CD.
-[] Aula 15: MoReq-Jus e Resolução CNJ nº 522/2023.
+[x] Aula 15: MoReq-Jus e Resolução CNJ nº 522/2023.
 [] Aula 16: Gestão documental arquivística digital: metadados, ciclo de vida, preservação e RDC-Arq.
 [] Aula 17: Revisão FGV de Engenharia de Software e Desenvolvimento.
 
@@ -137,6 +137,6 @@ Governança Projetos e TI no Setor Público
 [x] Aula 8: Contratações de TI no setor público: planejamento, estudo técnico, termo de referência, riscos, fiscalização e gestão contratual.
 [x] Aula 9: Resolução CNJ nº 335/2020.
 [x] Aula 10: Resolução CNJ nº 396/2021.
-[] Aula 11: Resolução CNJ nº 522/2023.
+[x] Aula 11: Resolução CNJ nº 522/2023.
 [] Aula 12: Portarias CNJ nº 252/2020, 253/2020, 131/2021, 162/2021 e 257/2022.
 [] Aula 13: Revisão FGV de Governança Projetos e TI no Setor Público.
