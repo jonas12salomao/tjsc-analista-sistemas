@@ -36,12 +36,12 @@ Legislação Institucional do PJSC
 [] Aula 8: Revisão FGV de Ética e Gestão no Serviço Público.
 
 Noções de Informática e Proteção de Dados
-[] Aula 1: Hardware, software, sistemas operacionais e aplicativos.
-[] Aula 2: Redes, internet, navegadores, e-mail, nuvem e boas práticas de uso.
-[] Aula 3: Segurança da informação: princípios, ameaças, senhas, malware, phishing, backup e boas práticas.
-[] Aula 4: LGPD — conceitos, dado pessoal, dado sensível, tratamento, princípios e bases legais.
-[] Aula 5: LGPD — direitos do titular, agentes de tratamento, controlador, operador, encarregado e responsabilidades.
-[] Aula 6: Proteção de dados no PJSC e Resolução TJ nº 3/2021.
+[s] Aula 1: Hardware, software, sistemas operacionais e aplicativos.
+[s] Aula 2: Redes, internet, navegadores, e-mail, nuvem e boas práticas de uso.
+[s] Aula 3: Segurança da informação: princípios, ameaças, senhas, malware, phishing, backup e boas práticas.
+[x] Aula 4: LGPD — conceitos, dado pessoal, dado sensível, tratamento, princípios e bases legais.
+[x] Aula 5: LGPD — direitos do titular, agentes de tratamento, controlador, operador, encarregado e responsabilidades.
+[x] Aula 6: Proteção de dados no PJSC e Resolução TJ nº 3/2021.
 [] Aula 7: Revisão FGV de Informática e Proteção de Dados.
 
 Direitos Humanos e acesso à justiça
