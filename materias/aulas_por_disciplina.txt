@@ -19,9 +19,9 @@ Legislação Institucional do PJSC
 [x] Aula 5: Regimento Interno do TJSC — funcionamento, sessões, julgamento, distribuição, presidência, corregedoria e pontos institucionais.
 [x] Aula 6: Corregedoria-Geral da Justiça: natureza, função, competências e relação com o primeiro grau.
 [x] Aula 7: Código de Normas da CGJ, atualizado pelo Provimento CGJ nº 22/2025 — serviços judiciais de primeiro grau, rotinas, atos, tramitação e secretaria.
-[] Aula 8: Lei nº 6.745/1985 — provimento, posse, exercício, direitos, vantagens, licenças e afastamentos.
-[] Aula 9: Lei nº 6.745/1985 — deveres, proibições, responsabilidades e regime jurídico funcional.
-[] Aula 10: Lei Complementar nº 639/2015 — regime disciplinar dos servidores do quadro do PJSC.
+[x] Aula 8: Lei nº 6.745/1985 — provimento, posse, exercício, direitos, vantagens, licenças e afastamentos.
+[x] Aula 9: Lei nº 6.745/1985 — deveres, proibições, responsabilidades e regime jurídico funcional.
+[x] Aula 10: Lei Complementar nº 639/2015 — regime disciplinar dos servidores do quadro do PJSC.
 [] Aula 11: Comparativo Lei nº 6.745/1985 x LC nº 639/2015 x normas internas do PJSC.
 [] Aula 12: Revisão FGV de Legislação Institucional do PJSC.
 
@@ -82,7 +82,7 @@ Arquitetura de Sistemas e Integração
 [x] Aula 8: Mensageria, eventos negociais, Message Broker e RabbitMQ.
 [x] Aula 9: Docker, containers, Kubernetes e Rancher.
 [x] Aula 10: Ambientes distribuídos e escaláveis: disponibilidade, resiliência, balanceamento, observabilidade e consistência.
-[] Aula 11: Revisão FGV de Arquitetura de Sistemas e Integração.
+[g] Aula 11: Revisão FGV de Arquitetura de Sistemas e Integração.
 
 Banco de Dados e Engenharia de Dados
 [x] Aula 1: Fundamentos de banco de dados, SGBD, arquitetura, OLTP e OLAP.
@@ -96,7 +96,7 @@ Banco de Dados e Engenharia de Dados
 [x] Aula 9: Modelagem dimensional: fatos, dimensões, medidas, granularidade, star schema e snowflake schema.
 [x] Aula 10: Data Warehouse, Data Mart, ETL, ELT, BI e operações OLAP.
 [x] Aula 11: Big Data, engenharia de dados, pipelines, análise de dados e arquitetura moderna de dados.
-[] Aula 12: Revisão FGV de Banco de Dados e Engenharia de Dados.
+[g] Aula 12: Revisão FGV de Banco de Dados e Engenharia de Dados.
 
 Infraestrutura de TI e Computação em Nuvem
 [x] Aula 1: Modelo OSI, TCP/IP e visão geral de redes.
