@@ -22,8 +22,8 @@ Legislação Institucional do PJSC
 [x] Aula 8: Lei nº 6.745/1985 — provimento, posse, exercício, direitos, vantagens, licenças e afastamentos.
 [x] Aula 9: Lei nº 6.745/1985 — deveres, proibições, responsabilidades e regime jurídico funcional.
 [x] Aula 10: Lei Complementar nº 639/2015 — regime disciplinar dos servidores do quadro do PJSC.
-[] Aula 11: Comparativo Lei nº 6.745/1985 x LC nº 639/2015 x normas internas do PJSC.
-[] Aula 12: Revisão FGV de Legislação Institucional do PJSC.
+[x] Aula 11: Comparativo Lei nº 6.745/1985 x LC nº 639/2015 x normas internas do PJSC.
+[g] Aula 12: Revisão FGV de Legislação Institucional do PJSC.
 
 Ética e Gestão no Serviço Público
 [S] Aula 1: Princípios constitucionais, moralidade, interesse público, probidade e integridade.
@@ -68,7 +68,7 @@ Engenharia de Software e Desenvolvimento
 [x] Aula 13: Testes unitários, de integração e de sistema.
 [x] Aula 14: Integração contínua e entrega contínua — CI/CD.
 [x] Aula 15: MoReq-Jus e Resolução CNJ nº 522/2023.
-[] Aula 16: Gestão documental arquivística digital: metadados, ciclo de vida, preservação e RDC-Arq.
+[x] Aula 16: Gestão documental arquivística digital: metadados, ciclo de vida, preservação e RDC-Arq.
 [] Aula 17: Revisão FGV de Engenharia de Software e Desenvolvimento.
 
 Arquitetura de Sistemas e Integração
@@ -111,7 +111,7 @@ Infraestrutura de TI e Computação em Nuvem
 [S] Aula 10: Kubernetes e Rancher: pods, nodes, services, deployments, scaling e gerenciamento.
 [x] Aula 11: Cloud computing: características essenciais, IaaS, PaaS, SaaS, nuvem pública, privada, híbrida e multicloud.
 [x] Aula 12: Desenvolvimento para nuvem, arquitetura cloud-native, escalabilidade, disponibilidade, resiliência e custos.
-[] Aula 13: Revisão FGV de Infraestrutura e Nuvem.
+[g] Aula 13: Revisão FGV de Infraestrutura e Nuvem.
 
 Segurança da Informação e Governança de TI
 [x] Aula 1: Fundamentos de segurança: confidencialidade, integridade, disponibilidade, autenticação e autorização.
@@ -124,7 +124,7 @@ Segurança da Informação e Governança de TI
 [x] Aula 8: ITIL 4: sistema de valor de serviço, cadeia de valor, práticas, incidentes, problemas, mudanças e níveis de serviço.
 [x] Aula 9: Gestão de riscos em TI: ameaça, vulnerabilidade, impacto, probabilidade, controle, tratamento e risco residual.
 [x] Aula 10: Continuidade de serviços de TI: BIA, RTO, RPO, backup, recuperação, contingência e desastre.
-[] Aula 11: Revisão FGV de Segurança da Informação e Governança de TI.
+[g] Aula 11: Revisão FGV de Segurança da Informação e Governança de TI.
 
 Governança Projetos e TI no Setor Público
 [x] Aula 1: Governança de TI no setor público: valor, alinhamento, accountability, riscos e controles.
