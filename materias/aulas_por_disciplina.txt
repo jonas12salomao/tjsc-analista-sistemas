@@ -2,8 +2,8 @@ Língua Portuguesa
 [x] Aula 1: Interpretação FGV: compreensão, inferência, pressupostos, subentendidos, tese e intenção comunicativa.
 [x] Aula 2: Tipos e gêneros textuais; finalidade, suporte, registro e adequação.
 [x] Aula 3: Ortografia oficial: emprego das letras, acentuação gráfica e palavras recorrentes em prova.
-[S] Aula 4: Coesão textual: referenciação, substituição, repetição, conectores e sequenciação.
-[] Aula 5: Correlação de tempos e modos verbais; valor semântico dos tempos verbais.
+[x] Aula 4: Coesão textual: referenciação, substituição, repetição, conectores e sequenciação.
+[x] Aula 5: Correlação de tempos e modos verbais; valor semântico dos tempos verbais.
 [] Aula 6: Coordenação, subordinação e estrutura do período.
 [S] Aula 7: Pontuação e efeitos de sentido.
 [] Aula 8: Concordância verbal e nominal.
